@@ -44,7 +44,7 @@ export default function About() {
 
   const services = [
     { icon: <Code className="w-6 h-6" />, name: "Frontend Development", desc: "React, Next.js, Vue.js" },
-    { icon: <Database className="w-6 h-6" />, name: "Backend Development", desc: "Node.js, Express, APIs" },
+    { icon: <Database className="w-6 h-6" />, name: "Backend Development", desc: "Node..js, Express, APIs" },
     { icon: <Smartphone className="w-6 h-6" />, name: "Mobile Apps", desc: "React Native, Flutter" },
     { icon: <Palette className="w-6 h-6" />, name: "UI/UX Design", desc: "Figma, Adobe XD" },
     { icon: <Cloud className="w-6 h-6" />, name: "Cloud Solutions", desc: "AWS, Azure, GCP" },
